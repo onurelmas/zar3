@@ -7,7 +7,7 @@ title = Zar
 package.name = com.barida.zar
 
 # (str) Package domain (needed for android/ios packaging)
-package.domain = org.test
+package.domain = com.barida
 
 # (str) Source code where the main.py live
 source.dir = .
